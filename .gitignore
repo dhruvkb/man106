@@ -6,3 +6,6 @@
 !*.*
 ## Unignore all directories
 !*/
+
+# Ignore .vscode config files
+.vscode
