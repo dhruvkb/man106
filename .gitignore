@@ -1,0 +1,8 @@
+# Ignoring binaries without any extensions
+
+## Ignore all
+*
+## Unignore all with extensions (source code)
+!*.*
+## Unignore all directories
+!*/
